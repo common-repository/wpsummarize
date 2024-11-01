@@ -1,0 +1,342 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPSummarize 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-summarize\n"
+"POT-Creation-Date: 2024-08-25 12:00:00+00:00\n"
+"PO-Revision-Date: 2024-08-26 11:46-0300\n"
+"Last-Translator: Julian Yanover <julianyanover@gmail.com>\n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.4\n"
+
+msgid "Key takeaways"
+msgstr "Puntos clave"
+
+msgid "WPSummarize Dashboard"
+msgstr "Panel de control de WPSummarize"
+
+msgid "WPSummarize"
+msgstr "WPSummarize"
+
+msgid "Dashboard"
+msgstr "Panel de control"
+
+msgid "WPSummarize Settings"
+msgstr "Configuración de WPSummarize"
+
+msgid "Settings"
+msgstr "Configuración"
+
+msgid "WPSummarize Batch Process"
+msgstr "Proceso por lotes de WPSummarize"
+
+msgid "Batch Process"
+msgstr "Proceso por lotes"
+
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+msgid "Credits used this month: %1$d out of %2$d"
+msgstr "Créditos usados este mes: %1$d de %2$d"
+
+msgid "Today"
+msgstr "Hoy"
+
+msgid "Yesterday"
+msgstr "Ayer"
+
+msgid "This Week"
+msgstr "Esta semana"
+
+msgid "This Month"
+msgstr "Este mes"
+
+msgid "All Time"
+msgstr "Todo el tiempo"
+
+msgid "Post"
+msgstr "Entrada"
+
+msgid "Summary"
+msgstr "Resumen"
+
+msgid "Latest summaries"
+msgstr "Últimos resúmenes"
+
+msgid "Minimum article's word count to create a summary"
+msgstr "Número mínimo de palabras del artículo para crear un resumen"
+
+msgid "Posts with word count higher than this will have a summary. 0 for no minimum."
+msgstr "Las entradas con un número de palabras superior a este tendrán un resumen. 0 para no establecer mínimo."
+
+msgid "Maximum credit usage for this batch"
+msgstr "Uso máximo de créditos para este lote"
+
+msgid "1 credit = 1 summary. 0 for no limit. "
+msgstr "1 crédito = 1 resumen. 0 para no establecer límite. "
+
+msgid "Update modified date"
+msgstr "Actualizar fecha de modificación"
+
+msgid "Posts that get a new summary will update its post modified date field."
+msgstr "Las entradas que obtengan un nuevo resumen actualizarán su campo de fecha de modificación."
+
+msgid "Order to process posts"
+msgstr "Orden para procesar las entradas"
+
+msgid "Start from newest to oldest"
+msgstr "Empezar desde la más nueva a la más antigua"
+
+msgid "From oldest to newest"
+msgstr "De la más antigua a la más nueva"
+
+msgid "Update existing summaries"
+msgstr "Actualizar resúmenes existentes"
+
+msgid "Replace summaries already created with new ones."
+msgstr "Reemplazar los resúmenes ya creados con nuevos."
+
+msgid "Post types to summarize"
+msgstr "Tipos de entrada a resumir"
+
+msgid "Settings saved and batch process started successfully!"
+msgstr "¡Configuración guardada y proceso por lotes iniciado con éxito!"
+
+msgid "Batch Process Status"
+msgstr "Estado del proceso por lotes"
+
+msgid "Status"
+msgstr "Estado"
+
+msgid "Posts Processed"
+msgstr "Entradas procesadas"
+
+msgid "The batch process is running in the background. You can leave this page and come back later to check the progress."
+msgstr "El proceso por lotes se está ejecutando en segundo plano. Puede abandonar esta página y volver más tarde para comprobar el progreso."
+
+msgid "The batch process has completed. You can start a new batch process if needed."
+msgstr "El proceso por lotes ha finalizado. Puede iniciar un nuevo proceso por lotes si es necesario."
+
+msgid "Number of posts without summaries: "
+msgstr "Número de entradas sin resúmenes: "
+
+msgid "You have %d credits left this month"
+msgstr "Te quedan %d créditos este mes"
+
+msgid "Batch process started."
+msgstr "Proceso por lotes iniciado."
+
+msgid "Not started"
+msgstr "No iniciado"
+
+msgid "In progress"
+msgstr "En progreso"
+
+msgid "Completed"
+msgstr "Completado"
+
+msgid "A summary is currently being generated. Please wait a few moments and check again."
+msgstr "Se está generando un resumen. Por favor, espere unos momentos y vuelva a comprobar."
+
+msgid "Get a new summary when you save this post"
+msgstr "Obtener un nuevo resumen al guardar esta entrada"
+
+msgid "Create a summary when you save this post"
+msgstr "Crear un resumen al guardar esta entrada"
+
+msgid "Customize settings for this post"
+msgstr "Personalizar la configuración para esta entrada"
+
+msgid "Do not display the summary in this article"
+msgstr "No mostrar el resumen en este artículo"
+
+msgid "Manually edit this summary"
+msgstr "Editar manualmente este resumen"
+
+msgid "Basic Settings"
+msgstr "Configuración básica"
+
+msgid "Create summary when you publish a new post"
+msgstr "Crear resumen al publicar una nueva entrada"
+
+msgid "Insert summary in posts by default"
+msgstr "Insertar resumen en las entradas por defecto"
+
+msgid "Title before summary"
+msgstr "Título antes del resumen"
+
+msgid "Where to insert summary on posts"
+msgstr "Dónde insertar el resumen en las entradas"
+
+msgid "Summary type"
+msgstr "Tipo de resumen"
+
+msgid "Output language of your summaries"
+msgstr "Idioma de salida de tus resúmenes"
+
+msgid "Advanced Settings"
+msgstr "Configuración avanzada"
+
+msgid "Enable WPSummarize on these post types"
+msgstr "Habilitar WPSummarize en estos tipos de entrada"
+
+msgid "Choose how many items in list of key insights summary"
+msgstr "Elegir cuántos elementos en la lista de resumen de puntos clave"
+
+msgid "Approximate words in text summary"
+msgstr "Palabras aproximadas en el resumen de texto"
+
+msgid "Use <strong> and <em> tags where relevant"
+msgstr "Usar etiquetas <strong> y <em> donde sea relevante"
+
+msgid "Choose the tone of the summary"
+msgstr "Elegir el tono del resumen"
+
+msgid "Summary Theme"
+msgstr "Tema del resumen"
+
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+msgid "Unfold summary on click"
+msgstr "Desplegar resumen al hacer clic"
+
+msgid "Temporarily hide summaries on all posts"
+msgstr "Ocultar temporalmente los resúmenes en todas las entradas"
+
+msgid "Adjust settings for batch summary generation."
+msgstr "Ajustar la configuración para la generación de resúmenes por lotes."
+
+msgid "Adjust the advanced options below."
+msgstr "Ajustar las opciones avanzadas a continuación."
+
+msgid "Customize how summaries are generated and displayed."
+msgstr "Personalizar cómo se generan y muestran los resúmenes."
+
+msgid "Use Default Setting"
+msgstr "Usar configuración predeterminada"
+
+msgid "Or customize this post... "
+msgstr "O personalizar esta entrada... "
+
+msgid "Automatically insert summary in the post"
+msgstr "Insertar automáticamente el resumen en la entrada"
+
+msgid "Add summaries on posts when available"
+msgstr "Añadir resúmenes en las entradas cuando estén disponibles"
+
+msgid "Where to insert summary"
+msgstr "Dónde insertar el resumen"
+
+msgid "Above the Content"
+msgstr "Encima del contenido"
+
+msgid "Below the Content"
+msgstr "Debajo del contenido"
+
+msgid "After First Paragraph"
+msgstr "Después del primer párrafo"
+
+msgid "Before First Heading Tag"
+msgstr "Antes de la primera etiqueta de encabezado"
+
+msgid "Manually Through Shortcode"
+msgstr "Manualmente mediante shortcode"
+
+msgid "Choose the output language of your summaries"
+msgstr "Elegir el idioma de salida de tus resúmenes"
+
+msgid "Same tone as the article"
+msgstr "Mismo tono que el artículo"
+
+msgid "Formal"
+msgstr "Formal"
+
+msgid "Casual"
+msgstr "Informal"
+
+msgid "Funny"
+msgstr "Divertido"
+
+msgid "Data-driven"
+msgstr "Basado en datos"
+
+msgid "List of key insights (recommended)"
+msgstr "Lista de puntos clave (recomendado)"
+
+msgid "Text summary"
+msgstr "Resumen de texto"
+
+msgid "Create summary when you publish this post"
+msgstr "Crear resumen al publicar esta entrada"
+
+msgid "Create on publish"
+msgstr "Crear al publicar"
+
+msgid "Update summary when a post is updated"
+msgstr "Actualizar resumen cuando se actualiza una entrada"
+
+msgid "Use style tags"
+msgstr "Usar etiquetas de estilo"
+
+msgid "Choose List Style"
+msgstr "Elegir estilo de lista"
+
+msgid "Based on the text"
+msgstr "Basado en el texto"
+
+msgid "Depends on the text"
+msgstr "Depende del texto"
+
+msgid "Between"
+msgstr "Entre"
+
+msgid " and "
+msgstr " y "
+
+msgid "Words:"
+msgstr "Palabras:"
+
+msgid "Summary theme"
+msgstr "Tema del resumen"
+
+msgid "Classic"
+msgstr "Clásico"
+
+msgid "Elegant"
+msgstr "Elegante"
+
+msgid "Bubbles"
+msgstr "Burbujas"
+
+msgid "Numbered"
+msgstr "Numerado"
+
+msgid "The summary will be dynamically displayed when the user clicks on the summary header."
+msgstr "El resumen se mostrará dinámicamente cuando el usuario haga clic en el encabezado del resumen."
+
+msgid "Hide all summaries in all posts regardless of other configuration"
+msgstr "Ocultar todos los resúmenes en todas las entradas independientemente de otra configuración"
+
+msgid "Upgrade to batch process your posts!"
+msgstr "¡Actualiza para procesar tus publicaciones en lote!"
+
+msgid "Upgrade to manually edit this summary, add strong and em tags, and adjust settings for this post."
+msgstr "Actualiza para editar manualmente este resumen, agregar etiquetas strong y em, y ajustar la configuración de esta publicación."
+
+msgid "Upgrade to adjust this option"
+msgstr "Actualiza para ajustar esta opción"
+
+msgid "Upgrade to choose from these themes"
+msgstr "Actualiza para elegir entre estos temas"
+
+msgid "Upgrade to enable this option"
+msgstr "Actualiza para habilitar esta opción"
+
+msgid "Upgrade to enable style tags"
+msgstr "Actualiza para habilitar las etiquetas de estilo"
+

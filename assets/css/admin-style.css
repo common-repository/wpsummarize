@@ -1,0 +1,178 @@
+/* Basic styling for the WPSummarize settings page */
+.wpsummarize_settings_form h2 {
+    color: #333;
+    font-size: 20px;
+}
+
+.wpsummarize_settings_form input[type="checkbox"] {
+    margin-right: 5px;
+}
+
+.wpsummarize_settings_form select {
+    margin: 5px 0;
+    width: 100%;
+    max-width: 300px;
+}
+
+.wpsummarize_nav_tab_wrapper .wpsummarize_nav_tab {
+    margin: 0 5px 0 0;
+    padding: 6px 10px;
+    background-color: #f1f1f1;
+    border: 1px solid #ccc;
+}
+
+.wpsummarize_nav_tab_wrapper .wpsummarize_nav_tab_active {
+    background-color: #fff;
+    border-bottom: 1px solid #fff;
+}
+
+.wpsummarize_settings_form .form-table td {
+	line-height: 2;
+}
+
+.wpsummarize_settings_form .form-table th {
+	width:25%;
+}
+
+.wpsummarize_settings_form form {
+	background: white;
+	margin-top: 20px;
+	border: 1px solid #c3c4c7;
+	box-shadow: 0 1px 1px rgba(0,0,0,.04);
+}
+.wpsummarize_settings_form p, .wpsummarize_settings_form table, .wpsummarize_settings_form h2 {
+    padding-left: 20px;
+}
+
+.wpsummarize_settings_form input[type="range"] {
+    width: 100%;
+    max-width:300px;
+}
+
+.wpsummarize_settings_form .form-table {
+    border-spacing: 0 20px;
+      border-collapse: separate;
+}
+
+.wpsummarize_settings_form form img {
+	width: 250px !important;
+	height: auto;
+	display: block;
+}
+
+.wpsummarize_settings_form .wrap_themes {
+    display:flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.wpsummarize_settings_form .wrap_themes input {
+     margin-left: 10px;
+}
+
+.wpsummarize_dashboard_tokens {
+	width: 100%;
+    font-size: 15px;
+    font-weight:600;
+	display: block;
+	background: white;
+	padding: 10px;
+	box-sizing: border-box;
+	border: 1px solid #c3c4c7;
+	box-shadow: 0 1px 1px rgba(0,0,0,.04);
+	margin-top: 30px;
+}
+
+.wpsummarize_settings_form h2.wpsummarize_settings_title.subtitle {
+    font-size: 23px;
+    font-weight: 400;
+    padding:0;
+    line-height: 1.3; 
+    margin-top: 30px;
+}
+
+.wpsummarize_settings_form ul {
+  list-style: disc;
+  margin-top:0;
+}
+
+#wpsummarize_meta_box ul {
+  list-style: disc;
+  list-style-position: inside;
+}
+
+.item-wpsummarize-meta-box {
+    display: block; line-height: 30px; min-height: 32px; padding: 10px 0;font-weight:600;
+}
+
+.wpsummarize-customization-control .customization-options {
+    display: inline-block;
+}
+
+.wpsummarize-toggle-customization {
+    display:inline-block;
+    margin: 0 125px 0 120px;
+    font-style: italic;
+    vertical-align: top;
+}
+
+.wpsummarize-customization-control-flex {
+    /*display: flex;
+    justify-content: space-evenly;*/
+}
+.wpsummarize-customization-control label {
+    display: inline-block;
+	vertical-align: top;
+    padding-bottom: 10px;
+}
+
+.wpsummarize-customization-control {
+    border-top: 1px solid #c3c4c7;
+      margin-bottom: 20px;
+}
+
+#wp-wpsummarize_summary_editor-editor-container {
+	margin-bottom: 20px;
+}
+
+#wpsummarize_loadingIndicator {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border: 4px solid rgba(0,0,0,.1);
+    border-radius: 50%;
+    border-top-color: #000;
+    animation: wpsummarize_spin 1s ease-in-out infinite;
+    margin:auto;
+}
+
+@keyframes wpsummarize_spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+
+@media(max-width:768px){
+    .wpsummarize-toggle-customization {
+    	display: block;
+    	margin: 10px 0 20px 0;
+    }
+    
+    .wpsummarize_settings_form .wrap_themes {
+    display:block;
+    }
+    .wpsummarize_settings_form form img {
+	width: 90% !important;
+	margin-top: 10px;
+    }
+    .wpsummarize_settings_form .form-table th,.wpsummarize_settings_form .form-table td {
+	width: 95%;
+	margin-bottom: 10px;
+    }
+    .wrap.wpsummarize_settings_form input, .wrap.wpsummarize_settings_form select {
+	max-width: 90% !important;
+    }
+    .wpsummarize_settings_form p, .wpsummarize_settings_form table, .wpsummarize_settings_form h2 {
+	padding-left: 10px;
+    }
+}

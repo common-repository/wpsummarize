@@ -1,0 +1,21 @@
+{
+    "name": "wpsummarize/wpsummarize",
+    "description": "Add a summary of your content in your posts",
+    "type": "project",
+    "require": {
+        "freemius/wordpress-sdk": "^2.8",
+        "woocommerce/action-scheduler": "^3.8"
+    },
+    "license": "GPLv2",
+    "autoload": {
+        "psr-4": {
+            "Wpsummarize\\Wpsummarize\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Julian Yanover"
+        }
+    ],
+    "minimum-stability": "stable"
+}

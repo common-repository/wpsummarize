@@ -1,0 +1,342 @@
+# Copyright (C) 2024 WPSummarize
+# This file is distributed under the same license as the WPSummarize plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPSummarize 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-summarize\n"
+"POT-Creation-Date: 2024-08-25 12:00:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Julian Yanover <julianyanover@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+
+msgid "Key takeaways"
+msgstr ""
+
+msgid "WPSummarize Dashboard"
+msgstr ""
+
+msgid "WPSummarize"
+msgstr ""
+
+msgid "Dashboard"
+msgstr ""
+
+msgid "WPSummarize Settings"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "WPSummarize Batch Process"
+msgstr ""
+
+msgid "Batch Process"
+msgstr ""
+
+msgid "Save Changes"
+msgstr ""
+
+msgid "Credits used this month: %1$d out of %2$d"
+msgstr ""
+
+msgid "Today"
+msgstr ""
+
+msgid "Yesterday"
+msgstr ""
+
+msgid "This Week"
+msgstr ""
+
+msgid "This Month"
+msgstr ""
+
+msgid "All Time"
+msgstr ""
+
+msgid "Post"
+msgstr ""
+
+msgid "Summary"
+msgstr ""
+
+msgid "Latest summaries"
+msgstr ""
+
+msgid "Minimum article's word count to create a summary"
+msgstr ""
+
+msgid "Posts with word count higher than this will have a summary. 0 for no minimum."
+msgstr ""
+
+msgid "Maximum credit usage for this batch"
+msgstr ""
+
+msgid "1 credit = 1 summary. 0 for no limit. "
+msgstr ""
+
+msgid "Update modified date"
+msgstr ""
+
+msgid "Posts that get a new summary will update its post modified date field."
+msgstr ""
+
+msgid "Order to process posts"
+msgstr ""
+
+msgid "Start from newest to oldest"
+msgstr ""
+
+msgid "From oldest to newest"
+msgstr ""
+
+msgid "Update existing summaries"
+msgstr ""
+
+msgid "Replace summaries already created with new ones."
+msgstr ""
+
+msgid "Post types to summarize"
+msgstr ""
+
+msgid "Settings saved and batch process started successfully!"
+msgstr ""
+
+msgid "Batch Process Status"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Posts Processed"
+msgstr ""
+
+msgid "The batch process is running in the background. You can leave this page and come back later to check the progress."
+msgstr ""
+
+msgid "The batch process has completed. You can start a new batch process if needed."
+msgstr ""
+
+msgid "Number of posts without summaries: "
+msgstr ""
+
+msgid "You have %d credits left this month"
+msgstr ""
+
+msgid "Batch process started."
+msgstr ""
+
+msgid "Not started"
+msgstr ""
+
+msgid "In progress"
+msgstr ""
+
+msgid "Completed"
+msgstr ""
+
+msgid "A summary is currently being generated. Please wait a few moments and check again."
+msgstr ""
+
+msgid "Get a new summary when you save this post"
+msgstr ""
+
+msgid "Create a summary when you save this post"
+msgstr ""
+
+msgid "Customize settings for this post"
+msgstr ""
+
+msgid "Do not display the summary in this article"
+msgstr ""
+
+msgid "Manually edit this summary"
+msgstr ""
+
+msgid "Basic Settings"
+msgstr ""
+
+msgid "Create summary when you publish a new post"
+msgstr ""
+
+msgid "Insert summary in posts by default"
+msgstr ""
+
+msgid "Title before summary"
+msgstr ""
+
+msgid "Where to insert summary on posts"
+msgstr ""
+
+msgid "Summary type"
+msgstr ""
+
+msgid "Output language of your summaries"
+msgstr ""
+
+msgid "Advanced Settings"
+msgstr ""
+
+msgid "Enable WPSummarize on these post types"
+msgstr ""
+
+msgid "Choose how many items in list of key insights summary"
+msgstr ""
+
+msgid "Approximate words in text summary"
+msgstr ""
+
+msgid "Use <strong> and <em> tags where relevant"
+msgstr ""
+
+msgid "Choose the tone of the summary"
+msgstr ""
+
+msgid "Summary Theme"
+msgstr ""
+
+msgid "Custom CSS"
+msgstr ""
+
+msgid "Unfold summary on click"
+msgstr ""
+
+msgid "Temporarily hide summaries on all posts"
+msgstr ""
+
+msgid "Adjust settings for batch summary generation."
+msgstr ""
+
+msgid "Adjust the advanced options below."
+msgstr ""
+
+msgid "Customize how summaries are generated and displayed."
+msgstr ""
+
+msgid "Use Default Setting"
+msgstr ""
+
+msgid "Or customize this post... "
+msgstr ""
+
+msgid "Automatically insert summary in the post"
+msgstr ""
+
+msgid "Add summaries on posts when available"
+msgstr ""
+
+msgid "Where to insert summary"
+msgstr ""
+
+msgid "Above the Content"
+msgstr ""
+
+msgid "Below the Content"
+msgstr ""
+
+msgid "After First Paragraph"
+msgstr ""
+
+msgid "Before First Heading Tag"
+msgstr ""
+
+msgid "Manually Through Shortcode"
+msgstr ""
+
+msgid "Choose the output language of your summaries"
+msgstr ""
+
+msgid "Same tone as the article"
+msgstr ""
+
+msgid "Formal"
+msgstr ""
+
+msgid "Casual"
+msgstr ""
+
+msgid "Funny"
+msgstr ""
+
+msgid "Data-driven"
+msgstr ""
+
+msgid "List of key insights (recommended)"
+msgstr ""
+
+msgid "Text summary"
+msgstr ""
+
+msgid "Create summary when you publish this post"
+msgstr ""
+
+msgid "Create on publish"
+msgstr ""
+
+msgid "Update summary when a post is updated"
+msgstr ""
+
+msgid "Use style tags"
+msgstr ""
+
+msgid "Choose List Style"
+msgstr ""
+
+msgid "Based on the text"
+msgstr ""
+
+msgid "Depends on the text"
+msgstr ""
+
+msgid "Between"
+msgstr ""
+
+msgid " and "
+msgstr ""
+
+msgid "Words:"
+msgstr ""
+
+msgid "Summary theme"
+msgstr ""
+
+msgid "Classic"
+msgstr ""
+
+
+msgid "Elegant"
+msgstr ""
+
+msgid "Bubbles"
+msgstr ""
+
+msgid "Numbered"
+msgstr ""
+
+msgid "The summary will be dynamically displayed when the user clicks on the summary header."
+msgstr ""
+
+msgid "Hide all summaries in all posts regardless of other configuration"
+msgstr ""
+
+msgid "Upgrade to batch process your posts!"
+msgstr ""
+
+msgid "Upgrade to manually edit this summary, add strong and em tags, and adjust settings for this post."
+msgstr ""
+
+msgid "Upgrade to adjust this option"
+msgstr ""
+
+msgid "Upgrade to choose from these themes"
+msgstr ""
+
+msgid "Upgrade to enable this option"
+msgstr ""
+
+msgid "Upgrade to enable style tags"
+msgstr ""
